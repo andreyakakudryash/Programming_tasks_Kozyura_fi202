@@ -1,6 +1,0 @@
-﻿  Source.cpp
-C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Tree\Tree\Source.cpp(204,34): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Tree\Tree\Source.cpp(209,34): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Tree\Tree\Source.cpp(214,34): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Tree\Tree\Source.cpp(261): warning C4715: Graph::Dijkstr: значение возвращается не при всех путях выполнения
-  Tree.vcxproj -> C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Tree\x64\Debug\Tree.exe
